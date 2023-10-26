@@ -1,2 +1,0 @@
-This is my masterpeace. I have to write a few lines just to practice my git commands. 
-Actually I am trying to make some changes
